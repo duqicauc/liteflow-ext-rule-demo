@@ -4,7 +4,7 @@ spring:
 
 liteflow:
   rule-source-ext-data-map:
-    url: jdbc:mysql://localhost:3306/poseidon
+    url: jdbc:mysql://localhost:3306/liteflow_rule_db
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
     password: 123456
